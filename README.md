@@ -3,6 +3,8 @@ This is a Control Port Switch for the Commodore C64. It provides a rapid fire fu
 
 The micro controller is a (Arduino) Pro Micro. This way, no fancy tools are required for uploading the firmware (just a micro usb B cable).
 
+Find some info on the required cable making <a href="http://tech.guitarsite.de/cable_making.html">on my website</a>
+
 <img src="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-/blob/master/Hardware/Rev.%201/pictures/4141_-_top_view.JPG" width="300" alt="Control Port Switch">
 Completed project
 

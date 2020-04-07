@@ -13,3 +13,6 @@ The PCB
 
 <img src="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-/blob/master/Hardware/Rev.%201/pictures/4139_-_top_bottom_connected.JPG" width="300" alt="Control Port Switch">
 The guts
+
+# Recommended Screws
+Those are mentioned in the documentation.

@@ -16,3 +16,6 @@ The guts
 
 # Recommended Screws
 Those are mentioned in the documentation.
+
+# Component Price
+The price for the components and PCB was calculated. It is 20.49€ without the 3D printed case (as of June 8th, 2020). The components can be bought cheaper, in case the Pro Micro is bought from AliExpress or Ebay (non domestic).
